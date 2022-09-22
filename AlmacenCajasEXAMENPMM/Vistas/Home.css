@@ -1,0 +1,215 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 10px;
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/gestion-almacen.jpg");
+  background-position: 50% 74.98%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 696px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 455px;
+  height: 287px;
+  margin: 41px auto 0 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 455px;
+  height: 287px;
+  margin: -287px 0 0 auto;
+}
+
+.u-section-2 .u-btn-1 {
+  animation-duration: 1500ms;
+  background-image: linear-gradient(#d39e44, #dcb471);
+  font-size: 1.5rem;
+  border-style: none;
+  align-self: center;
+  margin: -173px 153px 0 auto;
+}
+
+.u-section-2 .u-btn-2 {
+  animation-duration: 1500ms;
+  background-image: linear-gradient(#dcb471, #d39e44);
+  font-size: 1.5rem;
+  border-style: none;
+  align-self: center;
+  margin: -58px auto 0 114px;
+}
+
+.u-section-2 .u-image-3 {
+  width: 455px;
+  height: 287px;
+  margin: 161px auto 0 0;
+}
+
+.u-section-2 .u-image-4 {
+  width: 455px;
+  height: 287px;
+  margin: -287px 0 0 auto;
+}
+
+.u-section-2 .u-btn-3 {
+  animation-duration: 1500ms;
+  background-image: linear-gradient(#d39e44, #dcb471);
+  font-size: 1.5rem;
+  border-style: none;
+  align-self: center;
+  margin: -173px auto 0 90px;
+}
+
+.u-section-2 .u-btn-4 {
+  animation-duration: 1500ms;
+  background-image: linear-gradient(#dcb471, #d39e44);
+  font-size: 1.5rem;
+  border-style: none;
+  margin: -58px auto 60px 829px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 861px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -174px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: -57px;
+    margin-left: 106px;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 366px;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-top: -295px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-top: -165px;
+    margin-left: 106px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-left: 629px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1482px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -173px;
+    margin-right: auto;
+    margin-left: 180px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: -373px;
+    margin-left: 96px;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 681px;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-top: -472px;
+    margin-left: 96px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-top: 249px;
+    margin-left: 149px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-btn-1 {
+    margin-left: 168px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 105px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-top: -480px;
+    margin-left: 105px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-top: 256px;
+    margin-left: 150px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1287px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 214px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 214px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -145px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: -276px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 340px;
+    height: 214px;
+    margin-top: 637px;
+  }
+
+  .u-section-2 .u-image-4 {
+    width: 340px;
+    height: 214px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-top: -376px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-top: 182px;
+    margin-left: auto;
+  }
+}
